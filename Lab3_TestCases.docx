@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+<link rel="shortcut icon" href="https://vk.com/images/icons/favicons/fav_logo.ico?6"><script type="text/javascript" src="TestCases_files/loader_nav8175006856033_0.js"></script>
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: undefined,
+  intnat: '' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 8175006856033,
+  stDomains: 0,
+  stDomain: '',
+  stExcludedMasks: ["loader_nav","lang"],
+  zero: false,
+  contlen: 0,
+  loginscheme: 'https',
+  ip_h: '33de608231e21abfe0',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('11') || 13,
+  ts: 1538413048,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 10, 1, 19, 57, 28],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '',
+  audioAdsConfig: {"_":"_"},
+  longViewTestGroup: null,
+  cma: 1,
+  postNoEncode: 0,
+  lpConfig: {
+    enabled: 0,
+    key: '',
+    ts: 0,
+    url: '',
+    lpstat: 0
+  },
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "",
+
+  tnsPixelType: ''
+};
+var StaticFiles = {
+  'lite.js'   : {v: 344448126}
+};
+</script>
+<script type="text/javascript" language="javascript" src="TestCases_files/lite.js"></script><link rel="stylesheet" type="text/css" href="TestCases_files/common.css"><link rel="stylesheet" type="text/css" href="TestCases_files/fonts_cnt.css"><meta name="robots" content="noindex,nofollow"><title>TestCases.docx</title>
+<style>
+html, body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  border: none;
+}
+.iframe {
+  border: none;
+  display: block;
+  box-sizing: border-box;
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.docs_name {
+  display: block;
+  padding-top: 7px;
+}
+.docs_info {
+  padding: 7px 10px 0px;
+  color: #939699;
+}
+.docs_panel_wrap {
+  height: 50px;
+}
+.docs_panel {
+  background: #F1F1F1;
+  position: fixed;
+  width: 100%;
+  -webkit-box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+}
+.docs_panel .docs_del_wrap {
+  margin: 0 5px;
+}
+.can_zoom {
+  max-width: 100%;
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: -zoom-in;
+}
+.docs_panel .fl_r + .fl_r {
+    margin-right: 10px;
+}
+.can_zoom_out {
+  min-width: 100%;
+  cursor: -webkit-zoom-out;
+  cursor: -moz-zoom-out;
+  cursor: -zoom-out;
+}
+</style>
+<script>
+function saveDoc() {
+  var src = 'https://vk.com/docs?act=doc_preview_link&user_id=75724475&time=1538413047&oid=75724475&did=476291937&hash=5f88033049a1acecd8';
+  if (src.match(/\?/)) {
+    src += '&dl=1';
+  } else {
+    src += '?dl=1';
+  }
+  location.replace(src);
+  return false;
+}
+
+function saveLitresDoc() {
+  var anchor = document.createElement('a');
+  anchor.href = 'https://vk.com/docs?act=doc_preview_link&user_id=75724475&time=1538413047&oid=75724475&did=476291937&hash=5f88033049a1acecd8';
+  anchor.target = '_blank';
+  anchor.download = 'book.pdf';
+
+  var clickEvent = new MouseEvent("click", {
+    "view": window,
+    "bubbles": true,
+    "cancelable": false
+  });
+  anchor.dispatchEvent(clickEvent);
+}
+function litresBuy() {
+    var src= '/doclinks.php?link=&hash=c29555746f65cfaa6d3d6d8b142a4905&act=buy_from_preview_page&platform=web2';
+    if (src) {
+        window.location = src;
+    }
+    return false;
+}
+function imgZoom(obj) {
+  if (obj.className == 'can_zoom') {
+    obj.className = 'can_zoom_out';
+  } else {
+    obj.className = 'can_zoom';
+    window.scroll(0, 0);
+  }
+}
+</script>
+</head>
+<body onkeydown="if (event.keyCode == 83 &amp;&amp; (event.ctrlKey || event.metaKey)) return saveDoc(event);">
+<noindex>
+<div id="system_msg" class="fixed"></div>
+<div id="utils"></div>
+<div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="loader"></div><div class="back"></div></div></div></div>
+<div id="stl_left"></div><div id="stl_side"></div>
+
+<script type="text/javascript">domStarted();</script><div class="docs_panel_wrap">
+  <div class="docs_panel">
+    <div class="clear_fix" style="padding: 10px 20px;">
+      <button class="flat_button fl_r" onclick="return saveDoc();">Сохранить документ на диск</button><a href="https://www.microsoft.com/ru-ru/store/d/product/CFQ7TTC0K5DM/007R?WT.mc_id=VK_Office_Online_Integration" target="_blank" onclick="statlogsValueEvent('docs_office365_away', 'button');" class="flat_button secondary_dark fl_r" id="office_365_btn">Продукты Office 365</a>
+      <div class="docs_info fl_r"></div>
+      <a class="docs_name fl_l" onclick="return saveDoc();"><b>TestCases.docx</b></a>&nbsp;
+    </div>
+  </div>
+</div><iframe id="iframe" class="iframe" src="TestCases_files/vk_gettoken.html" name="iframe1538413047" width="100%" height="100%"></iframe><script type="text/javascript">domReady();</script>
+</noindex>
+
+</body></html>
